@@ -25,7 +25,7 @@ Install using VS Code command palette,
 
 This GIF pretty much explains it usage.
 
-![Snippet usage](assets/ezgif.com-video-to-gif.gif)
+![Snippet usage](http://i.imgur.com/zXqMnMp.gif)
 
 ## Credits
 - EditorConfig project - http://editorconfig.org
