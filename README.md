@@ -25,7 +25,7 @@ Install using VS Code command palette,
 
 This GIF pretty much explains it usage.
 
-![Snippet usage](http://i.imgur.com/zXqMnMp.gif)
+![Snippet usage](http://i.imgur.com/2fywiSk.gif)
 
 ## Credits
 - EditorConfig project - http://editorconfig.org
