@@ -1,0 +1,27 @@
+{
+  "name": "editorconfig-vscode-snippet",
+  "displayName": "EditorConfig VS Code Snippet",
+  "description": "Snippet brings settings boilerplate most commonly used to your .editorconfig file.",
+  "publisher": "zgudino",
+  "keywords": [
+    "editorconfig",
+    "config",
+    "code editor",
+    "ide"
+  ],
+  "categories": [
+    "Snippets"
+  ],
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "0.10.x"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "ini",
+        "path": "./snippets/ini.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+// EditorConfig helps developers define and maintain consistent
+// coding styles between different editors and IDEs.
+
+// For more visit http://editorconfig.org.
+
+{
+  "EditorConfig": {
+    "prefix": "editorconfig",
+    "description": ".editorconfig snippet (js, html, scss/css, py & md)",
+    "body": [
+      "; EditorConfig helps developers define and maintain consistent",
+      "; coding styles between different editors and IDEs.",
+      "\n; For more visit http://editorconfig.org.",
+      "root = true",
+      "\n; Choose between lf or rf on \"end_of_line\" property",
+      "[*]",
+      "indent_style = space",
+      "end_of_line = ${endOfLine:lf}",
+      "charset = utf-8",
+      "trim_trailing_whitespace = true",
+      "\n[*.{js,css,scss}]",
+      "indent_size = 2",
+      "\n[*.html]",
+      "indent_style = tab",
+      "\n[*.{py,html,md}]",
+      "indent_size = 4",
+      "\n[*.md]",
+      "trim_trailing_whitespace = false\n"
+    ]
+  }
+}
