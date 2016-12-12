@@ -18,6 +18,7 @@
       "end_of_line = ${endOfLine:lf}",
       "charset = utf-8",
       "trim_trailing_whitespace = true",
+      "insert_final_newline = true",
       "\n[*.{js,css,scss}]",
       "indent_size = 2",
       "\n[*.html]",
