@@ -3,7 +3,7 @@
 
 EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs.
 
-**VS Code** now supports EditorConfig thanks to Chris Dias' [vscodeEditorConfig](https://marketplace.visualstudio.com/items/chrisdias.vscodeEditorConfig) extension.
+**Note**: Microsoft's own `vscode-editorconfig` by Chris Dias is now [deprecated](https://github.com/Microsoft/vscode-editorconfig/issues/23). Instead use the [official extension](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) published by EditorConfig.
 
 ## Why bother?
 
@@ -20,6 +20,10 @@ Install using VS Code command palette,
 - On the search bar type in **editorconfig-vscode-snippet** or simply **editorconfig**
 - Select from the results **EditorConfig VS Code Snippet**
 
+## TODOs
+
+- [ ] more programming languages settings
+- [ ] independent snippets
 
 ## Usage
 
@@ -30,6 +34,7 @@ This GIF pretty much explains it usage.
 ## Credits
 - EditorConfig project - http://editorconfig.org
 - EditorConfig logo by Kat On - http://squirrelmuffins.com/
+- Chris Dias former vscode-editorconfig author - https://github.com/chrisdias
 
 ## License
 

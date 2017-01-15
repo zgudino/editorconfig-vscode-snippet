@@ -16,7 +16,7 @@
     "categories": [
         "Snippets"
     ],
-    "version": "0.1.0",
+    "version": "0.2.0",
     "engines": {
         "vscode": "0.10.x"
     },
@@ -24,6 +24,10 @@
         "snippets": [
             {
                 "language": "ini",
+                "path": "./snippets/ini.json"
+            },
+            {
+                "language": "properties",
                 "path": "./snippets/ini.json"
             }
         ]
